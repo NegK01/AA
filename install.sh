@@ -22,7 +22,7 @@ npm install toml -y
 npm i crypto-js -y
 npm i moment-timezone -y
 npm i axios -y
-npm i node-fetch@3.1.1 - npm -y
+npm i node-fetch - npm -y
 npm i requests -y
 npm install request --save -y
 npm i cfonts -y
